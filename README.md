@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello ★
+
+* Physical chemistry graduate student [@UniversityofthePacific](https://www.pacific.edu/liberalarts/academics/departments-and-programs/chemistry)
+________________________________________________________
+
+★ Secillia works as a graduate research and teaching assistant. Because of her computational research and love for games, she is always behind a computer screen. When she is not working on projects or homework, she likes to watch anime and browse social media for funny content. ✦
+
+* I'm currently working on creating a game to develop programming skills.
+* I'm currently learning how to use AI in research.
+* How to reach me: secilliacx@gmail.com
 
 <!--
 **typestep/typestep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
